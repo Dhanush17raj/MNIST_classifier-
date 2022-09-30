@@ -1,0 +1,1 @@
+/home/dhanush/Documents/ML/MNIST_classifier/inference.py
